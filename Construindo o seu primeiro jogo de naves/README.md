@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://github.com/alexrogeriodj/Construindo-o-seu-primeiro-jogo-de-naves" target="_blank">
     <img 
-         src="https://github.com/lucasrmagalhaes/resgate-js/blob/main/img/capa.jpg" 
+         src="https://github.com/alexrogeriodj/Construindo-o-seu-primeiro-jogo-de-naves/blob/main/Construindo%20o%20seu%20primeiro%20jogo%20de%20naves/img/capa.jpg" 
          alt="Portfolio" 
     />
   </a>
